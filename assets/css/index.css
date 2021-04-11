@@ -7,6 +7,7 @@ body {
 .horizon-separated {
   width: 100%;
   overflow: hidden;
+  height: 1em;
   color: gainsboro;
   font-size: 12pt;
   font-family: "garakuta-font";
@@ -14,7 +15,7 @@ body {
 }
 
 .horizon-separated:before {
-  content: "\ea01\ea02\ea03\ea04\ea05\ea06\ea07\ea08\ea09\ea0a\ea0b\ea0d\ea0e\ea0f\ea01\ea02\ea03\ea04\ea05\ea06\ea07\ea08\ea09\ea0a\ea0b\ea0d\ea0e\ea0f\ea01\ea02\ea03\ea04\ea05\ea06\ea07\ea08\ea09\ea0a\ea0b\ea0d\ea0e\ea0f\ea01\ea02\ea03\ea04\ea05\ea06\ea07\ea08\ea09\ea0a\ea0b";
+  content: "speaker door_opened gamepad mouse locked copy zigsaw_puzzle_piece_elevated arrow_up arrow_down arrow_left arrow_right pin pin_tilted reload cube speaker door_opened gamepad mouse locked copy zigsaw_puzzle_piece_elevated arrow_up arrow_down arrow_left arrow_right pin pin_tilted reload cube speaker door_opened gamepad mouse locked copy zigsaw_puzzle_piece_elevated arrow_up arrow_down arrow_left";
 }
 
 .garakuta-font-article {
