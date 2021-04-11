@@ -1,0 +1,163 @@
+@font-face {
+  font-family: "garakuta-font";
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: url("./garakuta-font.eot");
+  src: url("./garakuta-font.eot?#iefix") format("embedded-opentype"), url("./garakuta-font.woff2") format("woff2"), url("./garakuta-font.woff") format("woff"), url("./garakuta-font.ttf") format("truetype"), url("./garakuta-font.svg#garakuta-font") format("svg");
+}
+
+.garakuta-font {
+  display: inline-block;
+  font-family: "garakuta-font";
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.garakuta-font-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -0.0667em;
+}
+
+.garakuta-font-xs {
+  font-size: 0.75em;
+}
+
+.garakuta-font-sm {
+  font-size: 0.875em;
+}
+
+.garakuta-font-1x {
+  font-size: 1em;
+}
+
+.garakuta-font-2x {
+  font-size: 2em;
+}
+
+.garakuta-font-3x {
+  font-size: 3em;
+}
+
+.garakuta-font-4x {
+  font-size: 4em;
+}
+
+.garakuta-font-5x {
+  font-size: 5em;
+}
+
+.garakuta-font-6x {
+  font-size: 6em;
+}
+
+.garakuta-font-7x {
+  font-size: 7em;
+}
+
+.garakuta-font-8x {
+  font-size: 8em;
+}
+
+.garakuta-font-9x {
+  font-size: 9em;
+}
+
+.garakuta-font-10x {
+  font-size: 10em;
+}
+
+.garakuta-font-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.garakuta-font-border {
+  border: solid 0.08em #eee;
+  border-radius: 0.1em;
+  padding: 0.2em 0.25em 0.15em;
+}
+
+.garakuta-font-pull-left {
+  float: left;
+}
+
+.garakuta-font-pull-right {
+  float: right;
+}
+
+.garakuta-font.garakuta-font-pull-left {
+  margin-right: 0.3em;
+}
+
+.garakuta-font.garakuta-font-pull-right {
+  margin-left: 0.3em;
+}
+
+
+.garakuta-font-arrow-down::before {
+  content: "\ea01";
+}
+
+.garakuta-font-arrow-left::before {
+  content: "\ea02";
+}
+
+.garakuta-font-arrow-right::before {
+  content: "\ea03";
+}
+
+.garakuta-font-arrow-up::before {
+  content: "\ea04";
+}
+
+.garakuta-font-copy::before {
+  content: "\ea05";
+}
+
+.garakuta-font-door-opened::before {
+  content: "\ea06";
+}
+
+.garakuta-font-gamepad::before {
+  content: "\ea07";
+}
+
+.garakuta-font-locked::before {
+  content: "\ea08";
+}
+
+.garakuta-font-mouse::before {
+  content: "\ea09";
+}
+
+.garakuta-font-pin::before {
+  content: "\ea0a";
+}
+
+.garakuta-font-pin-tilted::before {
+  content: "\ea0b";
+}
+
+.garakuta-font-plain::before {
+  content: "\ea0c";
+}
+
+.garakuta-font-reload::before {
+  content: "\ea0d";
+}
+
+.garakuta-font-speaker::before {
+  content: "\ea0e";
+}
+
+.garakuta-font-zigsaw-puzzle-piece-elevated::before {
+  content: "\ea0f";
+}
+

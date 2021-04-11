@@ -1,0 +1,5 @@
+{
+  "fontName": "garakuta-font",
+  "dest": "fonts/",
+  "template": "css"
+}

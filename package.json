@@ -1,0 +1,22 @@
+{
+  "name": "garakuta-fonts",
+  "description": "some icon fonts made by garakuta-toolbox",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webfont assets/svg/**/*.svg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyoppi/garakuta-font.git"
+  },
+  "author": "piyoppi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyoppi/garakuta-font/issues"
+  },
+  "homepage": "https://github.com/piyoppi/garakuta-font#readme",
+  "devDependencies": {
+    "webfont": "^9.0.0"
+  }
+}
