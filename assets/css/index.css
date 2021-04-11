@@ -1,0 +1,66 @@
+body {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.horizon-separated {
+  width: 100%;
+  overflow: hidden;
+  color: gainsboro;
+  font-size: 12pt;
+  font-family: "garakuta-font";
+  border: none;
+}
+
+.horizon-separated:before {
+  content: "\ea01\ea02\ea03\ea04\ea05\ea06\ea07\ea08\ea09\ea0a\ea0b\ea0d\ea0e\ea0f\ea01\ea02\ea03\ea04\ea05\ea06\ea07\ea08\ea09\ea0a\ea0b\ea0d\ea0e\ea0f\ea01\ea02\ea03\ea04\ea05\ea06\ea07\ea08\ea09\ea0a\ea0b\ea0d\ea0e\ea0f\ea01\ea02\ea03\ea04\ea05\ea06\ea07\ea08\ea09\ea0a\ea0b";
+}
+
+.garakuta-font-article {
+  padding: 20px;
+  border-radius: 0 0 8px 8px;
+  background-color: white;
+  border: 1px solid gainsboro;
+}
+
+.garakuta-font-article__title {
+  text-align: center;
+}
+
+.garakuta-font-section {
+  padding: 20px;
+}
+
+.garakuta-font-section__title {
+  text-align: center;
+}
+
+.icon-catalog {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.icon-catalog__item {
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-catalog__caption {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  font-size: 9pt;
+  text-align: center;
+}

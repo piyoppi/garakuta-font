@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/piyoppi/garakuta-font#readme",
   "devDependencies": {
-    "webfont": "^9.0.0"
+    "webfont": "^10.0.0"
   }
 }

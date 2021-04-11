@@ -1,10 +1,10 @@
 @font-face {
+  font-display: auto;
   font-family: "garakuta-font";
   font-style: normal;
   font-weight: 400;
-  font-display: auto;
-  src: url("./garakuta-font.eot");
-  src: url("./garakuta-font.eot?#iefix") format("embedded-opentype"), url("./garakuta-font.woff2") format("woff2"), url("./garakuta-font.woff") format("woff"), url("./garakuta-font.ttf") format("truetype"), url("./garakuta-font.svg#garakuta-font") format("svg");
+  src: url("./garakuta-font.eot?1618125577606");
+  src: url("./garakuta-font.eot?#iefix") format("embedded-opentype"), url("./garakuta-font.woff2?1618125577606") format("woff2"), url("./garakuta-font.woff?1618125577606") format("woff"), url("./garakuta-font.ttf?1618125577606") format("truetype"), url("./garakuta-font.svg?1618125577606#garakuta-font") format("svg");
 }
 
 .garakuta-font {
@@ -101,19 +101,19 @@
 }
 
 
-.garakuta-font-arrow-down::before {
+.garakuta-font-arrow_down::before {
   content: "\ea01";
 }
 
-.garakuta-font-arrow-left::before {
+.garakuta-font-arrow_left::before {
   content: "\ea02";
 }
 
-.garakuta-font-arrow-right::before {
+.garakuta-font-arrow_right::before {
   content: "\ea03";
 }
 
-.garakuta-font-arrow-up::before {
+.garakuta-font-arrow_up::before {
   content: "\ea04";
 }
 
@@ -121,7 +121,7 @@
   content: "\ea05";
 }
 
-.garakuta-font-door-opened::before {
+.garakuta-font-door_opened::before {
   content: "\ea06";
 }
 
@@ -141,7 +141,7 @@
   content: "\ea0a";
 }
 
-.garakuta-font-pin-tilted::before {
+.garakuta-font-pin_tilted::before {
   content: "\ea0b";
 }
 
@@ -157,7 +157,7 @@
   content: "\ea0e";
 }
 
-.garakuta-font-zigsaw-puzzle-piece-elevated::before {
+.garakuta-font-zigsaw_puzzle_piece_elevated::before {
   content: "\ea0f";
 }
 
