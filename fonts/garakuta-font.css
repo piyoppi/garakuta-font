@@ -3,8 +3,8 @@
   font-family: "garakuta-font";
   font-style: normal;
   font-weight: 400;
-  src: url("./garakuta-font.eot?1618130749885");
-  src: url("./garakuta-font.eot?#iefix") format("embedded-opentype"), url("./garakuta-font.woff2?1618130749885") format("woff2"), url("./garakuta-font.woff?1618130749885") format("woff"), url("./garakuta-font.ttf?1618130749885") format("truetype"), url("./garakuta-font.svg?1618130749885#garakuta-font") format("svg");
+  src: url("./garakuta-font.eot?1618150797130");
+  src: url("./garakuta-font.eot?#iefix") format("embedded-opentype"), url("./garakuta-font.woff2?1618150797130") format("woff2"), url("./garakuta-font.woff?1618150797130") format("woff"), url("./garakuta-font.ttf?1618150797130") format("truetype"), url("./garakuta-font.svg?1618150797130#garakuta-font") format("svg");
 }
 
 .garakuta-font {
@@ -121,43 +121,47 @@
   content: "\ea05";
 }
 
-.garakuta-font-door_opened::before {
+.garakuta-font-cube::before {
   content: "\ea06";
 }
 
-.garakuta-font-gamepad::before {
+.garakuta-font-door_opened::before {
   content: "\ea07";
 }
 
-.garakuta-font-locked::before {
+.garakuta-font-gamepad::before {
   content: "\ea08";
 }
 
-.garakuta-font-mouse::before {
+.garakuta-font-locked::before {
   content: "\ea09";
 }
 
-.garakuta-font-pin::before {
+.garakuta-font-mouse::before {
   content: "\ea0a";
 }
 
-.garakuta-font-pin_tilted::before {
+.garakuta-font-pin::before {
   content: "\ea0b";
 }
 
-.garakuta-font-plain::before {
+.garakuta-font-pin_tilted::before {
   content: "\ea0c";
 }
 
-.garakuta-font-reload::before {
+.garakuta-font-plain::before {
   content: "\ea0d";
 }
 
-.garakuta-font-speaker::before {
+.garakuta-font-reload::before {
   content: "\ea0e";
 }
 
-.garakuta-font-zigsaw_puzzle_piece_elevated::before {
+.garakuta-font-speaker::before {
   content: "\ea0f";
+}
+
+.garakuta-font-zigsaw_puzzle_piece_elevated::before {
+  content: "\ea10";
 }
 
